@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me ...
 Facebook : https://www.facebook.com/Parteek.Goyal.PG
+
 Instagram : https://www.instagram.com/pg_prateekgoel/
+
 Twitter : https://twitter.com/_Parteek_Goyal_
+
 LinkedIN : https://www.linkedin.com/in/prateek-goel-0a45811b1/
 
 <!---
