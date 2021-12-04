@@ -22,9 +22,9 @@ Hackerrank : https://www.hackerrank.com/prateek_goel_cs1
 
 HackerEarth : https://www.hackerearth.com/@prateek.goel.cs.2019
 
-[![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekgoel7248)](https://github.com/prateekgoel728/github-readme-stats)
+[![Prateeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248)](https://github.com/prateeekgoel728/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api?username=prateekgoel7248
+https://github-readme-stats.vercel.app/api?username=prateeekgoel7248
 
 <!---
 prateeekgoel7248/prateeekgoel7248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
