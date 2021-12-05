@@ -40,7 +40,7 @@ HackerEarth : https://www.hackerearth.com/@prateek.goel.cs.2019
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prateeekgoel7248&repo=Android_Studio" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateeekgoel7248)](https://github.com/prateeekgoel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateeekgoel7248)](https://github.com/prateeekgoel7248)
 
 <!---
 prateeekgoel7248/prateeekgoel7248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
