@@ -33,7 +33,7 @@ HackerEarth : https://www.hackerearth.com/@prateek.goel.cs.2019
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prateeekgoel7248&repo=YouTube-Video-Downloader)](https://github.com/prateeekgoel7248/YouTube-Video-Downloader) -->
 
-<a href="https://github.com/prateekgoel7248/YouTube-Video-Downloader">
+<a href="https://github.com/prateeekgoel7248/YouTube-Video-Downloader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prateeekgoel7248&repo=YouTube-Video-Downloader" />
 </a>
 <a href="https://github.com/prateeekgoel7248/Android_Studio">
