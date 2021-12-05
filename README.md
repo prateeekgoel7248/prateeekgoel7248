@@ -25,7 +25,7 @@ HackerEarth : https://www.hackerearth.com/@prateek.goel.cs.2019
 <!-- [![Prateeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248)](https://github.com/prateeekgoel728/github-readme-stats) -->
 
 
-![Prateeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248&count_private=true)
+<!-- ![Prateeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248&count_private=true) -->
 
 <!-- ![Prateeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248&show_icons=true) -->
 
