@@ -22,9 +22,25 @@ Hackerrank : https://www.hackerrank.com/prateek_goel_cs1
 
 HackerEarth : https://www.hackerearth.com/@prateek.goel.cs.2019
 
-[![Prateeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248)](https://github.com/prateeekgoel728/github-readme-stats)
+<!-- [![Prateeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248)](https://github.com/prateeekgoel728/github-readme-stats) -->
 
-https://github-readme-stats.vercel.app/api?username=prateeekgoel7248
+
+![Prateeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248&count_private=true)
+
+<!-- ![Prateeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248&show_icons=true) -->
+
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeekgoel7248&show_icons=true&theme=radical)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prateeekgoel7248&repo=YouTube-Video-Downloader)](https://github.com/prateeekgoel7248/YouTube-Video-Downloader) -->
+
+<a href="https://github.com/prateekgoel7248/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prateeekgoel7248&repo=YouTube-Video-Downloader" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prateeekgoel7248&repo=Android_Studio" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateeekgoel7248)](https://github.com/prateeekgoel)
 
 <!---
 prateeekgoel7248/prateeekgoel7248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
